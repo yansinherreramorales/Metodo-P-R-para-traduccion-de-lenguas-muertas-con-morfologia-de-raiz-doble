@@ -48,4 +48,12 @@ $$P(t) = P_0 \cdot e^{(K_c - D_c)t}$$
 
 El código y los coeficientes de este repositorio son de **uso académico gratuito**, pero cualquier **uso comercial, desarrollo de aplicaciones o entrenamiento de modelos de Inteligencia Artificial (IA)** requiere una licencia pagada emitida por el autor.
 
-[![Comprar Licencia Comercial](https://img.shields.io/badge/Comprar-Licencia_Comercial_%28Gumroad%29-blue?style=for-the-badge&logo=gumroad)](https://tuusuario.gumroad.com/l/tu-producto)
+---
+
+## 📜 Licencia Comercial y Profesional (Método P-R)
+
+Para utilizar el **Motor R²** en entornos comerciales, aplicaciones de terceros o proyectos monetizados, debes adquirir la licencia oficial por **$200 USD**:
+
+👉 **[Adquirir Licencia Comercial en Gumroad](https://yansinherrera.gumroad.com/l/rsakrz)**
+
+> *La adquisición de esta licencia otorga derechos de explotación comercial conforme a las cláusulas del Método P-R y exige mantener la atribución universal del autor (Yansin Herrera).*
