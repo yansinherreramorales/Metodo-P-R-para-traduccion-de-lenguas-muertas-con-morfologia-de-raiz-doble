@@ -2,6 +2,16 @@
 
 **Repositorio Oficial (2026)**  
 **Autor:** Yansin Herrera (Santiago, Chile)  
+**Contacto:** yansinherrera24@gmail.com  
+
+---
+
+## 📌 Cómo Citar Este Proyecto (Obligatorio para Uso Académico)
+
+Si utilizas este método, fórmulas o código en investigaciones, papers o documentos académicos, debes citarlo obligatoriamente de la siguiente manera:
+
+> **Formato APA:**  
+> Herrera, Y. (2026). *Método P-R: Motor R² para la traducción de lenguas muertas y análisis morfológico*. Repositorio oficial de GitHub. https://github.com/tu-usuario/Metodo-P-R-para-traduccion-de-lenguas-muertas-con-morfologia-de-raiz-doble
 
 ---
 
@@ -34,15 +44,8 @@ $$P(t) = P_0 \cdot e^{(K_c - D_c)t}$$
 
 ---
 
-## Estructura del Repositorio
+## 💼 Licencia Comercial y Uso en Apps / IA
 
-* `src/motor_r2_lector.py`: Código lector original que procesa formas jeroglíficas, deriva los coeficientes $K_c$ y $D_c$, y calcula $P(t)$.
-* `LICENSE.md`: Términos y condiciones de uso académico y comercial.
+El código y los coeficientes de este repositorio son de **uso académico gratuito**, pero cualquier **uso comercial, desarrollo de aplicaciones o entrenamiento de modelos de Inteligencia Artificial (IA)** requiere una licencia pagada emitida por el autor.
 
----
-
-## Licencia y Derechos de Autor
-
-* **Uso Académico:** Gratuito, sujeto a la citación obligatoria de este repositorio y del autor (Yansin Herrera).
-* **Uso Comercial / IA:** El uso comercial, entrenamiento de modelos de Inteligencia Artificial o integración en aplicaciones propietarias requiere una **licencia pagada** emitida directamente por el autor.r()
-    print("Motor R² inicializado correctamente. Autor: Yansin Herrera (2026).")
+[![Comprar Licencia Comercial](https://img.shields.io/badge/Comprar-Licencia_Comercial_%28Gumroad%29-blue?style=for-the-badge&logo=gumroad)](https://tuusuario.gumroad.com/l/tu-producto)
